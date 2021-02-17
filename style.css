@@ -26,7 +26,10 @@
 .header-tagline a {
     text-decoration: none;
 }
-
+#primary-menu.navbar-default {
+    z-index: 600;
+    margin-top: -1px;
+}
 
 /* footer */
 .footer-new {
